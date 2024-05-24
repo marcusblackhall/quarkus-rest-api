@@ -1,0 +1,6 @@
+quarkus:
+  banner:
+    enabled: true
+    path: default-banner.txt
+  http:
+    port: 8701
